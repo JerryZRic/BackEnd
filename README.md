@@ -1,5 +1,5 @@
 # BackEnd
-This repository is forked from jihezhi/BackEnd, for learning golong 
+This repository is forked from jihezhi/BackEnd, for learning GOLANG.
 
 ## ..
 
